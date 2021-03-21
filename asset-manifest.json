@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mern-exercise-tracker/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/mern-exercise-tracker/static/js/main.7b6117a1.chunk.js",
+    "main.js.map": "/mern-exercise-tracker/static/js/main.7b6117a1.chunk.js.map",
+    "runtime-main.js": "/mern-exercise-tracker/static/js/runtime-main.98a0a97a.js",
+    "runtime-main.js.map": "/mern-exercise-tracker/static/js/runtime-main.98a0a97a.js.map",
+    "static/css/2.6b313f3d.chunk.css": "/mern-exercise-tracker/static/css/2.6b313f3d.chunk.css",
+    "static/js/2.6d4134e6.chunk.js": "/mern-exercise-tracker/static/js/2.6d4134e6.chunk.js",
+    "static/js/2.6d4134e6.chunk.js.map": "/mern-exercise-tracker/static/js/2.6d4134e6.chunk.js.map",
+    "static/js/3.398a6bd7.chunk.js": "/mern-exercise-tracker/static/js/3.398a6bd7.chunk.js",
+    "static/js/3.398a6bd7.chunk.js.map": "/mern-exercise-tracker/static/js/3.398a6bd7.chunk.js.map",
+    "index.html": "/mern-exercise-tracker/index.html",
+    "static/css/2.6b313f3d.chunk.css.map": "/mern-exercise-tracker/static/css/2.6b313f3d.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/mern-exercise-tracker/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.6d4134e6.chunk.js.LICENSE.txt": "/mern-exercise-tracker/static/js/2.6d4134e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98a0a97a.js",
+    "static/css/2.6b313f3d.chunk.css",
+    "static/js/2.6d4134e6.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.7b6117a1.chunk.js"
+  ]
+}
